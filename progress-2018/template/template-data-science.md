@@ -2,11 +2,11 @@
 
 ## 2018
 
-something about your goals here
+Goal: Become a Data science Ninja!
 
 ## Progress
 
-Current Course:    
+Current Course: [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)   
 Courses Completed: 0  
 Total Points earned: 
 
