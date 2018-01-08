@@ -1,21 +1,10 @@
 # SpeedStudy Plan
 
-## Progress
-If you would like to join me, feel free to either grab a copy of this repo and create your own goals for the year, or snag the [template](./progress-2018) to make your own copy and add a link to it here.
+* This is my study plan for 2018 forked from [p1xt's speedstudy](https://github.com/P1xt/speedstudy)
 
-* [P1xt](https://github.com/P1xt/p1xt-progress)
-* [fiftyfivebells](https://github.com/fiftyfivebells/2018-study-plan)
-* [Osycon](https://github.com/osycon/osycon-progress)
-* [SharpEleven](https://github.com/SharpEleven91/StudyGuide2018)
-* [elloo](https://github.com/elloo/p1xt-js-2.0-guided-studies)
-* [mayurpande](https://github.com/mayurpande/speedstudy)
-* [mtanzillo](https://github.com/mtanzillo/speedstudy2018)
-* [akhilome](https://github.com/akhilome/ss2018)
-* [bernar83](https://github.com/bernar83/2018-study-plan)
-* [LuisJaquez](https://github.com/LuisJaquez/Speed-Study-2018)
-* [buoyantair](https://github.com/buoyantair/progress)
-* [jesuodz](https://github.com/jesuodz/speedstudy)
-* [Your Progress Here](./progress-2018)
+## Progress
+
+* [See my Progress Here](./progress-2018)
 
 ## Abstract
 
