@@ -17,6 +17,7 @@ Total Points earned:
 
 ## Data Science Intensive
 - [ ] [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
+- [ ]  Challenge: [Python Interview Prep](https://www.hackerrank.com/chingu-challenge-3) on Hackerrank. Sign up now and work problems alongside the rest of the courses.
 - [ ] [Data Science Path on Cognitive Class](https://cognitiveclass.ai/learn/data-science/)
 - [ ] [MongoDB for Developers](https://university.mongodb.com/courses/M101P/about)
 - [ ] [Introduction to Biology - The Secret of Life](https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-6)
@@ -68,6 +69,16 @@ Total Points earned:
 - [ ] [Animation and CGI Motion](https://www.edx.org/course/animation-cgi-motion-columbiax-csmm-104x-0)
 
 ## Book Suggestions
+
+### Web dev
+
+- [ ]  [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)  
+- [ ]  [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix)
+- [ ]  [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [ ]  Study: [The Flask User Guide](http://flask.pocoo.org/docs/0.12/) or [the Django documentation](https://docs.djangoproject.com/en/1.11/) - pick based on which is more prevalent in your area, which you personally prefer, or any other criteria you choose, but pick one and study it thoroughly. Do the tutorials, read it all, learn testing, auth, databases, all of it.
+- [ ]  Study: [The pytest testing tool](https://docs.pytest.org/en/latest/) read the docs thoroughly, experiment with the examples and become proficient with pytest (including unittest and nose).
+- [ ]  [Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf)
+
 ### Data Science
 
 * [College Algebra](https://openstax.org/details/books/college-algebra)
