@@ -4,7 +4,7 @@
 
 ## Progress
 
-* [See my Progress Here](./progress-2018)
+* [See my Progress Here](./progress-2018/template)
 
 ## Abstract
 
