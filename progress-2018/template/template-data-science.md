@@ -12,7 +12,7 @@ Total Points earned:
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
-|  |  |  |  |
+| 09.01.2018 | Blog post kickstarting speedstudy | 15 | [Link to blog](https://medium.com/@pankajashree/2018-the-year-of-speedstudy-88ce80ca9e9e) |
 
 
 ## Data Science Intensive
