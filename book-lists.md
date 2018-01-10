@@ -14,6 +14,7 @@ If there is some book not on the list that you find essential, read it, you can 
 * [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)
 * [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)
 * [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
+* [Robust Javascript](https://molily.de/robust-javascript/#introduction)
 * [Setting Up ES6](https://leanpub.com/setting-up-es6/read)
 * [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix)
 * [DOM Enlightenment](http://domenlightenment.com/)
