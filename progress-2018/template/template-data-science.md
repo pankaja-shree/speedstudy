@@ -8,7 +8,7 @@ Goal: Become a Data science Ninja!
 
 Current Course:  [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
 Courses Completed: 1  
-Total Points earned: 1015
+Total Points earned: 1030
 
 | Date Finished | Activity                  | Points | Links  |           
 |---------------|---------------------------|--------|--------|
