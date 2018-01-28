@@ -8,12 +8,13 @@ Goal: Become a Data science Ninja!
 
 Current Course:  [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
 Courses Completed: 1  
-Total Points earned: 530
+Total Points earned: 1015
 
 | Date Finished | Activity                  | Points | Links  |           
 |---------------|---------------------------|--------|--------|
 | 09.01.2018 | Blog post kickstarting speedstudy | 15 | [Link to blog](https://medium.com/@pankajashree/2018-the-year-of-speedstudy-88ce80ca9e9e) |
 | 28.01.2018 | University level course (edX) | 500 | [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) |
+| 28.01.2018 | University level course (Coursera) | 500 | [Machine Learning](https://www.coursera.org/learn/machine-learning) |
 
 
 ## Data Science Intensive
@@ -38,7 +39,7 @@ Total Points earned: 530
 - [ ] [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
 - [ ] [Statistics and Probability in Data Science using Python](https://www.edx.org/course/statistics-probability-data-science-uc-san-diegox-dse210x)
 - [ ] [Proteins: Biology's Workforce](https://www.edx.org/course/proteins-biologys-workforce-ricex-bioc300-1x-2)
-- [ ] [Machine Learning](https://www.coursera.org/learn/machine-learning)
+- [x] [Machine Learning](https://www.coursera.org/learn/machine-learning)
 - [ ] [Database Mini-Courses](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
 - [ ] [Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
 - [ ] [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
