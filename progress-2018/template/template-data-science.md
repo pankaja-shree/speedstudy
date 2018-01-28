@@ -15,6 +15,7 @@ Total Points earned: 1015
 | 09.01.2018 | Blog post kickstarting speedstudy | 15 | [Link to blog](https://medium.com/@pankajashree/2018-the-year-of-speedstudy-88ce80ca9e9e) |
 | 28.01.2018 | University level course (edX) | 500 | [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) |
 | 28.01.2018 | University level course (Coursera) | 500 | [Machine Learning](https://www.coursera.org/learn/machine-learning) |
+| 28.01.2018 | Blog post | 15 | [Link](https://medium.com/pankaja/speedstudy-entry-1-book-ydkjs-es6-and-beyond-notes-86dc1565e0e4)
 
 
 ## Data Science Intensive
