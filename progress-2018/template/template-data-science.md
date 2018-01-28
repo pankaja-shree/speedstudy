@@ -6,13 +6,13 @@ Goal: Become a Data science Ninja!
 
 ## Progress
 
-Current Course: [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)   
-Courses Completed: 0  
-Total Points earned: 
+Current Course:  [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
+Courses Completed: 1  
+Total Points earned: 530
 
 | Date Finished | Activity                  | Points | Links  |           
-| ------------- | ------------------------- | ------ | ------------------------------------------- |
 | 09.01.2018 | Blog post kickstarting speedstudy | 15 | [Link to blog](https://medium.com/@pankajashree/2018-the-year-of-speedstudy-88ce80ca9e9e) |
+| 28.01.2018 | University level course (edX) | 500 | [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) |
 
 
 ## Data Science Intensive
@@ -26,7 +26,7 @@ Total Points earned:
 - [ ] [Deep Learning Path on Cognitive Class](https://cognitiveclass.ai/learn/deep-learning/)
 - [ ] [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6)
 - [ ] [Data Science](http://cs109.github.io/2015/)
-- [ ] [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
+- [x] [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
 - [ ] [Introduction to Solid State Chemistry](https://ocw.mit.edu/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/index.htm)
 - [ ] [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus)
 - [ ] [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
