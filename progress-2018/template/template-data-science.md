@@ -7,7 +7,7 @@ Goal: Become a Data science Ninja!
 ## Progress
 
 Current Course:  [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
-Courses Completed: 1  
+Courses Completed: 2  
 Total Points earned: 1030
 
 | Date Finished | Activity                  | Points | Links  |           
@@ -75,7 +75,7 @@ Total Points earned: 1030
 
 ### Web dev
 
-- [ ]  [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)  
+- [x]  [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)  
 - [ ]  [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix)
 - [ ]  [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [ ]  Study: [The Flask User Guide](http://flask.pocoo.org/docs/0.12/) or [the Django documentation](https://docs.djangoproject.com/en/1.11/) - pick based on which is more prevalent in your area, which you personally prefer, or any other criteria you choose, but pick one and study it thoroughly. Do the tutorials, read it all, learn testing, auth, databases, all of it.
