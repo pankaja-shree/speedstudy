@@ -7,22 +7,23 @@ Goal: Become a Data science Ninja!
 ## Progress
 
 Current Course:  [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
-Courses Completed: 2  
-Total Points earned: 1030
+Courses Completed: 3 
+Total Points earned: 1530
 
 | Date Finished | Activity                  | Points | Links  |           
 |---------------|---------------------------|--------|--------|
 | 09.01.2018 | Blog post kickstarting speedstudy | 15 | [Link to blog](https://medium.com/@pankajashree/2018-the-year-of-speedstudy-88ce80ca9e9e) |
 | 28.01.2018 | University level course (edX) | 500 | [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) |
 | 28.01.2018 | University level course (Coursera) | 500 | [Machine Learning](https://www.coursera.org/learn/machine-learning) |
-| 28.01.2018 | Blog post | 15 | [Link](https://medium.com/pankaja/speedstudy-entry-1-book-ydkjs-es6-and-beyond-notes-86dc1565e0e4)
+| 28.01.2018 | Blog post | 15 | [Link](https://medium.com/pankaja/speedstudy-entry-1-book-ydkjs-es6-and-beyond-notes-86dc1565e0e4) |
+| 10.02.2018 | University level course (Mongo DB University) | 500 | [MongoDB for Developers](https://university.mongodb.com/courses/M101P/about) |
 
 
 ## Data Science Intensive
 - [ ] [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
 - [ ]  Challenge: [Python Interview Prep](https://www.hackerrank.com/chingu-challenge-3) on Hackerrank. Sign up now and work problems alongside the rest of the courses.
 - [ ] [Data Science Path on Cognitive Class](https://cognitiveclass.ai/learn/data-science/)
-- [ ] [MongoDB for Developers](https://university.mongodb.com/courses/M101P/about)
+- [x] [MongoDB for Developers](https://university.mongodb.com/courses/M101P/about)
 - [ ] [Introduction to Biology - The Secret of Life](https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-6)
 - [ ] [Calculus One](https://www.coursera.org/learn/calculus1)
 - [ ] [Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/index.htm)
